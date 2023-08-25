@@ -279,6 +279,8 @@ a:focus {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
+  width: 50%;
+  justify-content: center;
 }
 
 .slider_section .slider_form form .btm_input input {
